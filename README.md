@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jyoti Sundarde</h1>
-<h3 align="center">Data ANALYST</h3>
+<h3 align="center">DATA ANALYST</h3>
 
 - 🌱 I’m currently learning **Excel ,SQL ,Power BI ,EDA**
 
